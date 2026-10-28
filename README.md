@@ -14,7 +14,7 @@
 
 You can experience the fully compiled app directly on your Android device without building from source:
 
-📥 **[Download Latest Release APK](https://github.com/YOUR_GITHUB_USERNAME/table_tales/releases/latest)**
+📥 **[Download Latest Release APK](https://github.com/samirkhan95/table_tales/releases/latest)**
 
 > **Note for Reviewers & Recruiters:** This showcase repository highlights the architecture, design system, and core technical implementations of TableTales. The production-ready pre-built APK is provided above for full hands-on testing.
 
@@ -139,15 +139,14 @@ The output binary will be located at:
 This repository serves as a **Portfolio & Architecture Showcase** for project evaluation. 
 
 - Core UI widgets, data models, state providers, and design tokens are included to showcase code quality and engineering standards.
-- Pre-built binary releases are available under the [Releases](https://github.com/YOUR_GITHUB_USERNAME/table_tales/releases) tab.
+- Pre-built binary releases are available under the [Releases](https://github.com/samirkhan95/table_tales/releases) tab.
 
 ---
 
 ## 👤 Author
 
-Developed by **Your Name / Developer Profile**  
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
+Developed by **Samir Khan**  
+- GitHub: [@samirkhan95](https://github.com/samirkhan95)
 
 ---
 

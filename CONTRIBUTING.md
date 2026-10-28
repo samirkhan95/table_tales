@@ -8,7 +8,7 @@ This repository is maintained as a **Showcase & Portfolio Project** to demonstra
 
 ## 🛠️ Testing the App
 
-If you are a reviewer or recruiter looking to test the application live on an Android device, please download the compiled release binary from the [Releases](https://github.com/YOUR_GITHUB_USERNAME/table_tales/releases) section.
+If you are a reviewer or recruiter looking to test the application live on an Android device, please download the compiled release binary from the [Releases](https://github.com/samirkhan95/table_tales/releases) section.
 
 ---
 
