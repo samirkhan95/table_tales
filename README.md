@@ -149,5 +149,3 @@ Developed by **Samir Khan**
 - GitHub: [@samirkhan95](https://github.com/samirkhan95)
 
 ---
-
-*Made with ❤️ using Flutter.*
