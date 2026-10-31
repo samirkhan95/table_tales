@@ -12,6 +12,10 @@
 .swiftpm/
 migrate_working_dir/
 
+# Showcase repository filters (excluding full screens and private backend services)
+/lib/screens/
+/lib/services/
+
 # APK Binaries (Release binaries uploaded via GitHub Releases tab)
 *.apk
 
